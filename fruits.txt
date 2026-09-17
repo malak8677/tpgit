@@ -4,3 +4,5 @@ banana
 grape 
 pineapple 
 mango 
+strawberry 
+kiwi 
