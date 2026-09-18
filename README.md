@@ -38,7 +38,7 @@
 
 ##### &#x20; - Share a project and work as a team.
 
-##### &#x20; **-**Learn how to merge: we brought our work together and learned how to fix conflicts.
+##### &#x20; -Learn how to merge: we brought our work together and learned how to fix conflicts.
 
 ##### 
 
