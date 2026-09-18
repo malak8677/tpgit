@@ -1,4 +1,5 @@
 watermelon
+kaki
 orange 
 banana 
 grape 
